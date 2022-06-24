@@ -1,6 +1,3 @@
-# exercise-git
-练习git使用
-
 - 新建分支
 `git checkout -b [branch-name]`
 
