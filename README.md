@@ -12,3 +12,6 @@
 
 - 删除远程分支
 `git push origin --delete [branch-name]`
+
+- merge 合并分支
+`git merge [branch-name]`
