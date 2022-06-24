@@ -16,5 +16,5 @@
 - merge 合并分支
 `git merge [branch-name]`
 
-- 撤回上一次提交到本地缓存中
+- 撤回上一次提交到本地缓存中，撤回版本之后重新提交
 `git reset --soft HEAD^`
