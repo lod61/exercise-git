@@ -1,1 +1,3 @@
-const hard = 'hard'
+function name(params) {
+    console.log(params);
+}
