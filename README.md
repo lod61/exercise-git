@@ -18,3 +18,6 @@
 
 - 撤回上一次提交到本地缓存中，撤回版本之后重新提交
 `git reset --soft HEAD^`
+
+- 提交本地撤回到远程
+`git push origin +HEAD`
